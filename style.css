@@ -39,5 +39,15 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.pic2{
+    padding-top: 50px;
+    padding-left: 50px;
+    
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
 
 
